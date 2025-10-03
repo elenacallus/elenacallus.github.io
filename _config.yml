@@ -361,7 +361,7 @@ imagemagick:
     - ".gif"
     - ".pdf"
   output_formats:
-    webp: "-quality 100"
+    webp: "-quality 80"
 
 # Lazy loading images
 #   If you enable lazy loading, all images will add the loading="lazy" attribute.
