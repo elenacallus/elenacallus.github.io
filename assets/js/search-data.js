@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-publications",
           title: "publications",
-          description: "all publications can be found on my [arXiv page](https://arxiv.org/a/callus_e_1.html).",
+          description: "all publications can be found on my arXiv page.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
