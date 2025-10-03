@@ -6,12 +6,12 @@ subtitle: Quantum physicist | Jena, Germany
 
 profile:
   align: left
-  image: prof_pic.jpg
+  image: prof_pic_color.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Institute of Condensed Matter Theory & Optics</p>
-    <p>Fröbelstieg 1</p>
-    <p>07743, Jena</p>
+    <p>Fröbelstieg 1, 07743 Jena</p>
+    <p>07743 Jena</p>
     <p>Germany</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -28,6 +28,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome! My name is Elena Callus and I am currently a postdoctoral researcher in the [Gärttner group](https://qiqs-jena.de) at Friedrich Schiller University in Jena, Germany. 
+welcome! my name is Elena Callus and i am currently a postdoctoral researcher in the [Gärttner group](https://qiqs-jena.de) at Friedrich Schiller University in Jena, Germany. 
 
-My main research interests are quantum information theory, continuous-variable quantum computing and quantum resource theories. I have previously worked on applications of light--matter interaction in entanglement-generation and quantum error correction. Currently, I am working on characterisation of entanglement in continuous-variable systems by means of phase-space distributions.
+my main research interests are quantum information theory, continuous-variable quantum computing and quantum resource theories. i have previously worked on applications of light--matter interaction in entanglement-generation and quantum error correction. currently, i am working on characterisation of entanglement in continuous-variable systems by means of phase-space distributions.
