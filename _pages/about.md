@@ -10,9 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Institute of Condensed Matter Theory & Optics</p>
-    <p>Fröbelstieg 1, 07743 Jena</p>
-    <p>07743 Jena</p>
-    <p>Germany</p>
+    <p>Fröbelstieg 1</p>
+    <p>07743 Jena, Germany</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
