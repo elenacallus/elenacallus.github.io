@@ -13,6 +13,4 @@ nav_order: 2
 
 {% bibliography %}
 
-trying something else
-
 </div>
