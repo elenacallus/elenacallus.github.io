@@ -266,7 +266,7 @@ scholar:
   last_name: [Callus]
   first_name: [Elena, E.]
 
-  style: _bibliography/american-institute-of-physics.csl
+  style: /_bibliography/american-institute-of-physics.csl
   locale: en
 
   source: /_bibliography/
