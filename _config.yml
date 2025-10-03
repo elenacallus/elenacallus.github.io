@@ -263,10 +263,10 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  #last_name: [Callus]
-  #first_name: [Elena, E.]
+  last_name: [Callus]
+  first_name: [Elena, E.]
 
-  style: american-institute-of-physics
+  style: apa
   locale: en
 
   source: /_bibliography/
