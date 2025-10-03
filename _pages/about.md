@@ -27,10 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 <p style='text-align: justify;'>
+welcome! my name is Elena Callus and i am currently a postdoctoral researcher in the [Gärttner group](https://qiqs-jena.de) at Friedrich Schiller University in Jena, Germany.</p>
 
-  
-  
-welcome! my name is Elena Callus and i am currently a postdoctoral researcher in the [Gärttner group](https://qiqs-jena.de) at Friedrich Schiller University in Jena, Germany. 
-
+<p style='text-align: justify;'>
 my main research interests are quantum information theory, continuous-variable quantum computing and quantum resource theories. i have previously worked on applications of light--matter interaction in entanglement-generation and quantum error correction. currently, i am working on characterisation of entanglement in continuous-variable systems by means of phase-space distributions.
 </p>
