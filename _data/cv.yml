@@ -10,7 +10,7 @@
     - name: address
       value: Fröbelstieg 1, 07743 Jena, Germany
 
-- title: Education
+- title: education
   type: time_table
   contents:
     - title: PhD
@@ -27,12 +27,12 @@
         - double science degree in mathematics & physics
         - "dissertation supervised by Dr André Xuereb: A quantum perspective on random walks on graphs"
 
-- title: Work
+- title: work
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: postdoctoral researcher
+      institution: Friedrich-Schiller-Universität Jena, Germany
+      year: Sep 2023 - present
       description:
         - Description 1.
         - Description 2.
