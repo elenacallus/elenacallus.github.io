@@ -10,10 +10,25 @@
     - name: address
       value: Fröbelstieg 1, 07743 Jena, Germany
 
+- title: work
+  type: time_table
+  contents:
+    - title: postdoctoral researcher
+      institution: Friedrich-Schiller-Universität Jena, Germany
+      year: 2025 - present
+      description:
+        - working in Prof. Martin Gärttner's research group
+    - title: doctoral researcher
+      institution: University of Sheffield, Sheffield
+      year: 2023
+      description:
+        - part of the Low-Dimensional Structures & Devices group
+        - supervised by Prof. Pieter Kok
+        
 - title: education
   type: time_table
   contents:
-    - title: PhD
+    - title: Doctor of Philosophy
       institution: University of Sheffield, United Kingdom
       year: 2023
       description:
@@ -25,18 +40,3 @@
       description:
         - double science degree in mathematics & physics
         - "dissertation supervised by Dr André Xuereb: A quantum perspective on random walks on graphs"
-
-- title: work
-  type: time_table
-  contents:
-    - title: postdoctoral researcher
-      institution: Friedrich-Schiller-Universität Jena, Germany
-      year: 2025
-      description:
-        - working in Prof. Martin Gärttner's research group
-    - title: doctoral researcher
-      institution: University of Sheffield, Sheffield
-      year: 2023
-      description:
-        - part of the Low-Dimensional Structures & Devices group
-        - supervised by Prof. Pieter Kok
