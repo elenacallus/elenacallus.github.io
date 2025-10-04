@@ -51,6 +51,6 @@ orcid_id: 0000-0001-9650-4390 # your ORCID ID
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
 custom_social: # can be any name here other than the ones already defined above
-  logo: favicon.png # can be png, svg, jpg
+  logo: https://commons.wikimedia.org/wiki/File:ArXiv_logo_2022.svg # can be png, svg, jpg
   title: arXiv
   url: https://arxiv.org/a/callus_e_1.html
