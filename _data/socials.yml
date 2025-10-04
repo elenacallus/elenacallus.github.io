@@ -2,7 +2,6 @@
 # the commented lines are the default social media links supported by the template
 # the socials will be displayed in the order they are defined here
 
-arxiv: callus_e_1
 # academia_edu:  your organization and your username Ex. https://organization.academia.edu/UserName
 #  organization: princeton # your organization as appears in the subdomain
 #  username:  AlbertEinstein # your username
@@ -28,6 +27,7 @@ email: elena.callus@uni-jena.de # your email address
 linkedin_username: elena-callus-6a2b2516a # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
+arxiv: callus_e_1
 orcid_id: 0000-0001-9650-4390 # your ORCID ID
 # osf_id: # your OSF ID
 # pinterest_id: # your pinterest id
