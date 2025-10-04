@@ -14,15 +14,12 @@
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: University of Sheffield, United Kingdom
+      year: Oct 2019 - Jul 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - part of the Low-Dimensional Structures & Devices group
+        - supervised by Prof. Pieter Kok
+        - "thesis:" "<a href="https://etheses.whiterose.ac.uk/id/eprint/33634/">Applications of light–matter interaction in semiconductor structures</a>
     - title: Federal teaching diploma
       institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
       year: 1900
