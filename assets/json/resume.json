@@ -32,14 +32,14 @@
       "studyType": "PhD",
       "startDate": "2019-10",
       "endDate": "2023-07",
-      "highlights": ["working in the Low-Dimensional Structures & Devices group","supervised by Prof. Pieter Kok","thesis: <a href='https://etheses.whiterose.ac.uk/id/eprint/33634/'>Applications of light--matter interaction in semiconductor structures</a>"]
+      "courses": ["working in the Low-Dimensional Structures & Devices group","supervised by Prof. Pieter Kok","thesis: <a href='https://etheses.whiterose.ac.uk/id/eprint/33634/'>Applications of light--matter interaction in semiconductor structures</a>"]
     },
    {
       "institution": "University of Malta, Malta",
       "studyType": "Bachelor of Science (Hons.)",
       "startDate": "2014-10",
       "endDate": "2018-06",
-      "highlights": ["double science degree in mathematics & physics","bachelor dissertation supervised by Dr André Xuereb","dissertation: A quantum perspective on random walks on graphs"]
+      "courses": ["double science degree in mathematics & physics","bachelor dissertation supervised by Dr André Xuereb","dissertation: A quantum perspective on random walks on graphs"]
     }
   ]
 }
