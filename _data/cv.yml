@@ -1,12 +1,14 @@
-- title: General Information
+- title: general information
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+    - name: full name
+      value: Elena Callus
+    - name: email
+      value: <a href="mailto:elena.callus@uni-jena.de">elena.callus@uni-jena.de</a>
+    - name: group website
+      value: <a href="https://qiqs-jena.de">https://qiqs-jena.de</a>
+    - name: address
+      value: Fröbelstieg 1, 07743 Jena, Germany
 
 - title: Education
   type: time_table
