@@ -1,7 +1,7 @@
 - title: general information
   type: map
   contents:
-    - name: full name
+    - name: name
       value: Elena Callus
     - name: email
       value: <a href="mailto:elena.callus@uni-jena.de">elena.callus@uni-jena.de</a>
@@ -19,7 +19,7 @@
       description:
         - part of the Low-Dimensional Structures & Devices group
         - supervised by Prof. Pieter Kok
-        - "thesis:" "<a href="https://etheses.whiterose.ac.uk/id/eprint/33634/">Applications of light–matter interaction in semiconductor structures</a>
+        - "thesis:" <a href="https://etheses.whiterose.ac.uk/id/eprint/33634/">Applications of light–matter interaction in semiconductor structures</a>
     - title: Bachelor of Science (Hons.)
       institution: University of Malta, Malta
       year: Oct 2014 - Jul 2018
