@@ -16,19 +16,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
         },{id: "nav-cv",
           title: "cv",
           description: "a complete CV can be accessed through the PDF icon on the right",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
+          },
+        },{id: "nav-projects",
+          title: "projects",
+          description: "A growing collection of your cool projects.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
           },
         },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
         
@@ -79,11 +79,11 @@ ninja.data = [{
           window.open("https://orcid.org/0000-0001-9650-4390", "_blank");
         },
       },{
-        id: 'social-arxiv',
-        title: 'Arxiv',
+        id: 'social-custom_social',
+        title: 'Custom_social',
         section: 'Socials',
         handler: () => {
-          window.open("", "_blank");
+          window.open("https://arxiv.org/a/callus_e_1.html", "_blank");
         },
       },{
       id: 'light-theme',
