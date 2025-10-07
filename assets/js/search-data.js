@@ -152,11 +152,11 @@ ninja.data = [{
           window.open("https://orcid.org/0000-0001-9650-4390", "_blank");
         },
       },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
+        id: 'social-arxiv',
+        title: 'Arxiv',
         section: 'Socials',
         handler: () => {
-          window.open("https://arxiv.org/a/callus_e_1.html", "_blank");
+          window.open("", "_blank");
         },
       },{
       id: 'light-theme',
