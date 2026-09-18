@@ -4,18 +4,21 @@
     - name: name
       value: Elena Callus
     - name: email
-      value: <a href="mailto:elena.callus@uni-jena.de">elena.callus@uni-jena.de</a>
-    - name: group website
-      value: <a href="https://qiqs-jena.de">https://qiqs-jena.de</a>
+      value: <a href="mailto:elena.callus@su.se">elena.callus@su.se</a>
+    - name: institute website
+      value: <a href="https://nordita.org">https://nordita.org</a>
     - name: address
-      value: Fröbelstieg 1, 07743 Jena, Germany
+      value: AlbaNova, Hannes Alfvéns väg 12, SE-106 91 Stockholm, Sweden
 
 - title: work
   type: time_table
   contents:
+    - title: WINQ fellow
+      institution: Nordita Stockholm, Sweden
+      year: sep 2026 - present
     - title: postdoctoral researcher
       institution: Friedrich-Schiller-Universität Jena, Germany
-      year: sep 2023 - present
+      year: sep 2023 - aug 2026
       description:
         - member of Prof. Martin Gärttner's research group
     - title: doctoral researcher
